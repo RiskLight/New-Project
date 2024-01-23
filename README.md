@@ -1,5 +1,5 @@
 <p align="center">
-  <div> I WAS HERE </div>
+  <div align="center"> I WAS HERE </div>
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
